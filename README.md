@@ -1,4 +1,4 @@
-Manifesting-construction-activity-scenes-via-image-captioning
+Construction-activity-scenes-image-captioning
 ===================
 
 ## Related projects ##
@@ -16,10 +16,12 @@ The python codes of this research was developed based on the previous related pr
 
 - (2) Dataset II Download link: https://polyuit-my.sharepoint.com/:f:/g/personal/huanliu_polyu_edu_hk/EsadO3nBesZHukcSlIwkIqIBTKJObhHhYK_3luh1pR8UuQ?e=8k2H3j
 
-## Pretrained model in E#1, E#2, and E#3 ##
+## Pretrained models in E#1, E#2, and E#3 ##
 
 - (1) Pre-trained model (VGG16-LSTM) Download link: https://polyuit-my.sharepoint.com/:u:/g/personal/huanliu_polyu_edu_hk/EWsLURfSxSRAkZa5XOOwVjQBgxy-BSvbpHq2sU9puZt-Iw?e=heY46e
 
 - (2) Pre-trained model (VGG16-LSTM) Download link: https://polyuit-my.sharepoint.com/:u:/g/personal/huanliu_polyu_edu_hk/EaC69D7oADNGpnh8DGQoup0B5n7HWiGEa7durtzNMi4jpw?e=xOrtBy
 
 - (3) Pre-trained model (VGG16-LSTM) Download link: https://polyuit-my.sharepoint.com/:u:/g/personal/huanliu_polyu_edu_hk/EYu3JBqpsNFOj4XFy5tRth0BjwweaxpCeZnOu0Ej_Vgx6A?e=dOlpNK
+
+## Results ##
