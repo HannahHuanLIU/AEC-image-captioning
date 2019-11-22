@@ -1,12 +1,12 @@
 Construction-activity-scenes-image-captioning
 ===================
 
-## Related projects ##
+## Related previous projects ##
 
 The python codes of this research was developed based on the previous related projects:
-- (1) https://github.com/nikhilmaram/Show_and_Tell
+- (1) P1: https://github.com/nikhilmaram/Show_and_Tell
 
-- (2) https://github.com/DeepRNN/image_captioning/blob/master/model.py
+- (2) P2: https://github.com/DeepRNN/image_captioning
 
 - (3) Automatic evaluation metrics: https://github.com/tylin/coco-caption
 
