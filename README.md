@@ -24,4 +24,5 @@ The python codes of this research was developed based on the previous related pr
 
 - (3) Pre-trained model (VGG16-LSTM) Download link: https://polyuit-my.sharepoint.com/:u:/g/personal/huanliu_polyu_edu_hk/EYu3JBqpsNFOj4XFy5tRth0BjwweaxpCeZnOu0Ej_Vgx6A?e=dOlpNK
 
-## Results ##
+## Results in the published paper ##
+Manifesting construction activity scenes via image captioning: https://www.sciencedirect.com/science/article/pii/S0926580520309146?casa_token=aXuljemXC1kAAAAA:zqDX2SuBOsbKmT3rOmiTyKDUfxv3xo3jzpG9io54fDSbgiIoNg4mwT5wftbHcoDIa_Fc-iH0NmU
