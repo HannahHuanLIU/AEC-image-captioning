@@ -12,9 +12,11 @@ The python codes of this research was developed based on the previous related pr
 
 ## Two novel datasets in the context of construction management ##
 
-- (1) Dataset I Download link: https://polyuit-my.sharepoint.com/:f:/g/personal/huanliu_polyu_edu_hk/EtVoHF1_ex1Cni-Kh1I-iJgB9dw1sR_unYcufnGsy8pSbA?e=Ha10Y6
+- (1) Dataset I Download link: 链接：https://pan.baidu.com/s/12eoafOvuDKDfrQQ0RMUnKA 
+提取码：ftt6 
 
-- (2) Dataset II Download link: https://polyuit-my.sharepoint.com/:f:/g/personal/huanliu_polyu_edu_hk/EsadO3nBesZHukcSlIwkIqIBTKJObhHhYK_3luh1pR8UuQ?e=8k2H3j
+- (2) Dataset II Download link: 链接：https://pan.baidu.com/s/18DMTw7V6kBM_XIUoOYtyBw 
+提取码：9dzf 
 
 ## Pretrained models in E#1, E#2, and E#3 ##
 
