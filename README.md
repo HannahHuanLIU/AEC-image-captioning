@@ -20,11 +20,14 @@ The python codes of this research was developed based on the previous related pr
 
 ## Pretrained models in E#1, E#2, and E#3 ##
 
-- (1) Pre-trained model (VGG16-LSTM) Download link: https://polyuit-my.sharepoint.com/:u:/g/personal/huanliu_polyu_edu_hk/EWsLURfSxSRAkZa5XOOwVjQBgxy-BSvbpHq2sU9puZt-Iw?e=heY46e
+- (1) Pre-trained model (VGG16-LSTM @ dataset I) in E#1 Download link: 链接：https://pan.baidu.com/s/1aUScdO7NGls3nETyFAU9bw 
+提取码：2iic 
 
-- (2) Pre-trained model (VGG16-LSTM) Download link: https://polyuit-my.sharepoint.com/:u:/g/personal/huanliu_polyu_edu_hk/EaC69D7oADNGpnh8DGQoup0B5n7HWiGEa7durtzNMi4jpw?e=xOrtBy
+- (2) Pre-trained model (VGG16-LSTM @ dataset II) in E#2 Download link: 链接：https://pan.baidu.com/s/1H5IyZL7FbgVd6Lj28XdjCA 
+提取码：kbls 
 
-- (3) Pre-trained model (VGG16-LSTM) Download link: https://polyuit-my.sharepoint.com/:u:/g/personal/huanliu_polyu_edu_hk/EYu3JBqpsNFOj4XFy5tRth0BjwweaxpCeZnOu0Ej_Vgx6A?e=dOlpNK
+- (3) Pre-trained model (ResNet50-LSTM @ dataset II) in E#3 Download link: 链接：https://pan.baidu.com/s/1BknPa_tFPMV7lAnD_Oay7A 
+提取码：y3ag 
 
 ## Results in the published paper ##
 Manifesting construction activity scenes via image captioning: https://www.sciencedirect.com/science/article/pii/S0926580520309146?casa_token=aXuljemXC1kAAAAA:zqDX2SuBOsbKmT3rOmiTyKDUfxv3xo3jzpG9io54fDSbgiIoNg4mwT5wftbHcoDIa_Fc-iH0NmU
